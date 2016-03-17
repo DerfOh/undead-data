@@ -1,0 +1,13 @@
+header {
+	margin-bottom:30px;
+}
+
+table, th, td {
+     border: 3px solid black;
+     padding: 3px;
+}
+
+code { 
+	display: block; 
+	white-space: normal; 
+}
