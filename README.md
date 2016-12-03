@@ -1,3 +1,5 @@
+## This project is no longer maintained but will be preserved here
+
 # undead-data
 Final Project for a Database Management Class
 
